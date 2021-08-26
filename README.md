@@ -8,6 +8,10 @@ Simple 2D Game
 
 Dodge the red blocks using the left and right arrow buttons.
 
+### Note
+
+Restart the page to play again.
+
 <br>
 
 ## Screenshot
