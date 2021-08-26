@@ -1,0 +1,22 @@
+
+canvas {
+	background-color: #F7F7F7;
+	border:1px solid gray;
+	display: block;
+	margin: auto;
+}
+
+div {
+	width:342 px;
+}
+
+div, p {    
+	display: block;
+	margin: auto;
+	text-align:center;
+}
+
+button {
+	height: 30px;
+	width: 70px;
+}
