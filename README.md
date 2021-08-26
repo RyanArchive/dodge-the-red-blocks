@@ -1,4 +1,4 @@
-# simple-2d-game
+# dodge-the-red-blocks
 
 Simple 2D Game
 
