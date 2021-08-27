@@ -26,3 +26,9 @@ Restart the page to play again.
 - CSS
 - JavaScript
 - Any text editor (e.g. VS Code, Sublime)
+
+<br>
+
+## Published
+
+[Dodge the Red Blocks](https://rynrsts.github.io/dodge-the-red-blocks/)
